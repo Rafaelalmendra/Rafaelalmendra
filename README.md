@@ -1,4 +1,4 @@
-## Hey 👋
+# Hey 👋
 
 My name is **Rafael Almendra**, I am a student of Information Systems. 📚💙🇧🇷
 
